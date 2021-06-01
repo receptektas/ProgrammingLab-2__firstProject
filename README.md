@@ -1,7 +1,7 @@
 # ProgrammingLab-II__FirstProject
 A lecture given at the university and the first of the projects I did in this course.
 
-## English ##
+### English ###
 We did this project with my teammate and we think we did a great job :)
 
 We basically designed a maze game with Java language and swing library. We used smurfs as player characters. We have enabled the enemy to decide the moves to be made towards the player character by using the Dijkstra algorithm.
